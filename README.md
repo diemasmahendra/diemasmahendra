@@ -59,16 +59,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diemasmahendra&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=f78166&fire=f78166&currStreakLabel=c9d1d9" alt="streak" />
-
-</div>
-
----
-
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
   <br>
