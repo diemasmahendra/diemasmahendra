@@ -9,7 +9,7 @@
     <span style="display:inline-block;transform-origin:70% 70%;animation:wave 2s infinite;">👋</span>
   </h1>
 
-  <h3>Automation & Bot Developer · Indonesia 🇮🇩</h3>
+  <h3>Automation &amp; Bot Developer · AI Engineer 🚀 · Indonesia 🇮🇩</h3>
 
   <p>
     🤖 Building WhatsApp &amp; Telegram bots, automation tools, and auto-script systems.<br/>
@@ -43,37 +43,6 @@
 
 ---
 
-#### 🚀 Notable Projects
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/diemasmahendra/Digital-Store-Assistant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemasmahendra&repo=Digital-Store-Assistant&theme=radical&bg_color=0d1117&hide_border=true" alt="Digital-Store-Assistant"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/diemasmahendra/wa-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemasmahendra&repo=wa-bot&theme=radical&bg_color=0d1117&hide_border=true" alt="wa-bot"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/diemasmahendra/Wa-OpenAI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemasmahendra&repo=Wa-OpenAI&theme=radical&bg_color=0d1117&hide_border=true" alt="Wa-OpenAI"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/diemasmahendra/readmebox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=diemasmahendra&repo=readmebox&theme=radical&bg_color=0d1117&hide_border=true" alt="readmebox"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 #### 💬 Let's Connect
 
 <div align="center">
@@ -97,8 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=diemasmahendra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=f78166" alt="stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diemasmahendra&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=f78166&fire=f78166&currStreakLabel=c9d1d9" alt="streak" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=diemasmahendra&bg_color=0d1117&color=f78166&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="activity" />
 
 </div>
 
