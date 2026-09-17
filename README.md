@@ -63,8 +63,6 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=diemasmahendra&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=f78166" alt="stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diemasmahendra&theme=radical&hide_border=true&background=0d1117&stroke=c9d1d9&ring=f78166&fire=f78166&currStreakLabel=c9d1d9" alt="streak" />
 
 </div>
